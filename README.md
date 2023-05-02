@@ -8,7 +8,7 @@
 <div align="center">
 
 [DEPLOYED SITE](https://mazzilio.netlify.app/) • 
-[TECH STACK](https://github.com/mazzilio/mazzilio-content-kit#-tech-stack) • [WHAT IS IT?](https://github.com/mazzilio/mazzilio-content-kit#-what-is-mazzilio?) • 
+[TECH STACK](https://github.com/mazzilio/mazzilio-content-kit#-tech-stack) • [WHAT IS IT?](https://github.com/mazzilio/mazzilio-content-kit#-what-is-mazzilio) • 
 [TECH PATHWAYS](https://github.com/mazzilio/mazzilio-content-kit#-pathways-into-tech) • 
 
 </div>
