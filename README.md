@@ -44,10 +44,8 @@ If you want to say thank you and/or support active development of my Media Kit:
 - Add a GitHub Star to mazzilio's media kit!
 - Connect with me and let me know what improvements or feedback I can make. :)
 
-Thanks so much for your interest in growing the reach of the Well app!
-
 # ⚠️ License
-The Well app is free and open-source software licensed under the GNU General Public License v3.0. 
+My content kit is free and open-source software licensed under the GNU General Public License v3.0. 
 <br />
 
 ## Want to run it locally?
