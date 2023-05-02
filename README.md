@@ -40,8 +40,8 @@ Interested in contributing to my media kit? I really appreciate the thought but 
 If you would like to contribute feedback, improvements or make your own version - this code is available for you to clone and use for your own projects and developments.
 
 # 🌟 Spread the word!
-If you want to say thank you and/or support active development of my Media Kit:
-- Add a GitHub Star to mazzilio's media kit!
+If you want to show interest in the Mazzilio Media Kit:
+- Add a GitHub Star to the repository!
 - Connect with me and let me know what improvements or feedback I can make. :)
 
 # ⚠️ License
@@ -54,6 +54,8 @@ Feel free to download and use this code for your own portfolios and examples of 
 npm install
 npm run dev
 ```
+All configuration files have been set up based on relevant documentation and experience, but feel free to tinker around with the Tailwind configurations and stylings as a learning exercise.
+
 
 ## Notes
 This piece of work has not been unit tested as of now, but code coverage and unit tests will be addressed once an opportunity arises for me to focus on it. 
