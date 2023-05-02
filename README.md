@@ -13,9 +13,9 @@
 
 <div align="center">
 
-**[DEPLOYED SITE](https://mazzilio.netlify.app/) • 
-[TECH STACK](https://github.com/mazzilio/mazzilio-content-kit#-tech-stack) • 
-**
+[DEPLOYED SITE](https://mazzilio.netlify.app/) • 
+[TECH STACK](https://github.com/mazzilio/mazzilio-content-kit#-tech-stack) • [WHAT IS IT?](https://github.com/mazzilio/mazzilio-content-kit#-what-is-mazzilio?) • 
+[TECH PATHWAYS](https://github.com/mazzilio/mazzilio-content-kit#-pathways-into-tech) • 
 
 </div>
 
@@ -71,4 +71,6 @@ This piece of work has not been unit tested as of now, but code coverage and uni
 <br />
 
 # Pathways into Tech?
+I was very fortunate enough to have done the ["Code First Girls"](https://codefirstgirls.com/courses/cfgdegree/) Bootcamp with an opportunity to interview at an amazing company. Before then, I undertook a lot of web development courses, such as the FreeCodeCamp Legacy and Updated Web Dev courses, the Full-stack Route on Codecademy, and a ton of YouTube tutorials and Medium Articles!
 
+My focus has been on project-based learning and undertaking Computer Science fundamentals. I have a ton more content on my TikTok on my own experience and journey, so feel free to connect on there!
